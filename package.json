@@ -1,0 +1,10 @@
+{
+  "name": "cards-api",
+  "version": "0.1",
+  "description": "Cards API implementated in AWS Lamda",
+  "author": "Peter Sowerbutts<pete.sowerbutts@gmail.com> (https://github.com/petersow)",
+  "license": "ISC",
+  "dependencies": {
+    "node-uuid": "1.4.7"
+  }
+}
